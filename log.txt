@@ -1,0 +1,13 @@
+Collecting mfrc522
+  Using cached mfrc522-0.0.7-py3-none-any.whl (18 kB)
+Collecting RPi.GPIO
+  Using cached RPi.GPIO-0.7.0.tar.gz (30 kB)
+Requirement already satisfied: spidev in ./env/lib/python3.9/site-packages (from mfrc522) (3.5)
+Building wheels for collected packages: RPi.GPIO
+  Building wheel for RPi.GPIO (setup.py): started
+  Building wheel for RPi.GPIO (setup.py): finished with status 'error'
+  Running setup.py clean for RPi.GPIO
+Failed to build RPi.GPIO
+Installing collected packages: RPi.GPIO, mfrc522
+    Running setup.py install for RPi.GPIO: started
+    Running setup.py install for RPi.GPIO: finished with status 'error'
